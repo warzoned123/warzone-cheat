@@ -7,7 +7,7 @@ Whether you're aiming for more wins, practicing recoil control, or exploring how
 
 ## 🧭 Quick Links
 
-- [✨ Get Access](#-Access-&-Status)
+- [✨ Get Access](#-Access)
 - [🚀 Why Use Warzone Cheat?](#-why-use-warzone-cheat)
 - [🔧 How It Works](#-how-it-works)
 - [💻 Installation Guide](#-installation-guide)
@@ -17,7 +17,7 @@ Whether you're aiming for more wins, practicing recoil control, or exploring how
 
 ---
 
-## 🔘 Access & Status
+## 🔘 Access
 
 <p align="center">
   <a href="https://discord.gg/SfkrK75HNj" target="_blank">
